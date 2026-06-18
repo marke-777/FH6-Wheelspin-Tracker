@@ -1,0 +1,7 @@
+Copyright © 2026 Mark Elkin. All rights reserved.
+
+This software may be downloaded and used for personal, non-commercial use.
+
+Redistribution, modification, resale, or reuploading modified versions is not permitted without written permission.
+
+FH6 Wheelspin Tracker is an unofficial fan-made tool and is not affiliated with, endorsed by, or sponsored by Microsoft, Xbox, Playground Games, Turn 10 Studios, or Forza.
