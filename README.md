@@ -5,7 +5,7 @@ FH6 Wheelspin Tracker is a local Windows app for tracking Normal Wheelspin and S
 
 This is an early beta release.
 
-Features
+## Features
 
 - Track Normal Wheelspin rewards
 - Track Super Wheelspin rewards by slot/lane
@@ -13,17 +13,17 @@ Features
 - View career and session stats
 - Prepare a database for sharing
 
-Beta Status
+## Beta Status
 
 This app is currently in beta. The starter reward library is incomplete and will be updated over time.
 
 Bug reports and improvement suggestions are welcome through GitHub Issues.
 
-Unofficial Fan Tool
+## Unofficial Fan Tool
 
 FH6 Wheelspin Tracker is an unofficial fan-made tool. It is not affiliated with, endorsed by, or sponsored by Microsoft, Xbox, Playground Games, Turn 10 Studios, or Forza.
 
-Support
+## Support
 
 If you find this app useful and want to support future updates:
 
